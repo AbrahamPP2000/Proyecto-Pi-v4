@@ -1,8 +1,6 @@
 # Proyecto-Pi-v4
 Núñez Milán María Fernanda - 217758519
 Pelayo Pinedo Abraham - 215500336
-![image](https://user-images.githubusercontent.com/97979648/167995669-7ba8dccc-bec5-4468-a9ed-d01381014fe9.png)
-
 
 Esta página que provee tutoriales educativos para niños buscando ser atractiva al tener un diseño basado en la reconocida plataforma "Netflix". La página es 100% responsiva para que se adapte tanto a monitores como a dispositivos móviles, además cuenta con su versión de escritorio.
 
