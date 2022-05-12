@@ -1,6 +1,6 @@
 # Proyecto-Pi-v4
-Núñez Milán María Fernanda - 217758519
-Pelayo Pinedo Abraham - 215500336
+- Núñez Milán María Fernanda - 217758519
+- Pelayo Pinedo Abraham - 215500336
 
 Esta página que provee tutoriales educativos para niños buscando ser atractiva al tener un diseño basado en la reconocida plataforma "Netflix". La página es 100% responsiva para que se adapte tanto a monitores como a dispositivos móviles, además cuenta con su versión de escritorio.
 
